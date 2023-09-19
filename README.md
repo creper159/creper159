@@ -1,4 +1,5 @@
 - Hi, I’m creper159
+- I'm HEAVILY inspired by @dragonmaster731012
 - I like drawing
 - I’m currently learning Java.
 
